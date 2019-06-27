@@ -1,5 +1,5 @@
 
-FROM jdk:8 
+FROM openjdk:8
 
 ARG JAR_FILE
 
